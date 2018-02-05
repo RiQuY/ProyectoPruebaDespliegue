@@ -15,5 +15,6 @@ and open the template in the editor.
         echo "<p>Hola mundo Git</p>";
         ?>
         <p>Texto 2</p>
+        <p>Texto 3</p>
     </body>
 </html>
