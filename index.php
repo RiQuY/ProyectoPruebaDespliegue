@@ -17,5 +17,6 @@ and open the template in the editor.
         <p>Texto 2</p>
         <p>Texto 3</p>
         <p>Texto 80</p>
+        <p>Ranma 1/4</p>
     </body>
 </html>
