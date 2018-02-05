@@ -14,5 +14,6 @@ and open the template in the editor.
         // put your code here
         echo "<p>Hola mundo Git</p>";
         ?>
+        <p>Texto 2</p>
     </body>
 </html>
