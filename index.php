@@ -18,5 +18,6 @@ and open the template in the editor.
         <p>Texto 3</p>
         <p>Texto 80</p>
         <p>Ranma 1/4</p>
+        <p>Canela en rama</p>
     </body>
 </html>
